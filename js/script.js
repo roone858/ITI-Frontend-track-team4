@@ -64,10 +64,10 @@ rate.addEventListener("click", function () {
 let pic = document.querySelector('.home')
 
 let pics = [
-  "/imgs/2945044.jpg",
-  "/imgs/1657871.jpg",
-  "/imgs/40-of-the-Coolest-Web-Designs-with-Pattern-Backgrounds.jpg",
-  "/imgs/web-design-concept-presentation-banner-ad-advertising-29993024.jpg",
+  "imgs/2945044.jpg",
+  "imgs/1657871.jpg",
+  "imgs/40-of-the-Coolest-Web-Designs-with-Pattern-Backgrounds.jpg",
+  "imgs/web-design-concept-presentation-banner-ad-advertising-29993024.jpg",
 ];
 let i = 1;
 
